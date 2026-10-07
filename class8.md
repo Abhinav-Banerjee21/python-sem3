@@ -1,7 +1,7 @@
 # Lists
 - Lists are built in data types
 - Lists are used to store multiple items in a single variable.
-- It can store elemtns pof different types (integer, float, string etc.)
+- It can store elements of different types (integer, float, string etc.)
 - Lists are mutable (changeable)
 - Lists are created using square brackets
 - List items are:
